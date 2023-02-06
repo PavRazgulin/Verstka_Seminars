@@ -1,0 +1,60 @@
+a {
+  text-decoration: none;
+}
+
+.headmain {
+  color: #222222;
+  font-size: 28px;
+  line-height: 36px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.headsec {
+  color: coral;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 80px;
+  text-align: center;
+}
+
+body {
+  margin: 15px;
+  padding: 30px 30px 30px 30px;
+  border-width: thin;
+  border-color: black;
+  border-style: double;
+  background-color: lightgray;
+  text-align: justify;
+  outline: thick double;
+}
+
+img {
+  float: right;
+  margin-left: 10px;
+  border-radius: 10px;
+}
+
+.paragraph {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 30px;
+  color: #7d7987;
+}
+
+footer {
+  background-color: rgb(64, 73, 73);
+  text-align: center;
+  color: antiquewhite;
+  font-size: 20px;
+}
+
+.menu {
+  color: cornflowerblue;
+  font-size: 16px;
+  line-height: 20px;
+  border-radius: 10px;
+  background-color: darkcyan;
+}
